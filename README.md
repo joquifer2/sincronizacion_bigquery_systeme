@@ -1,1 +1,1 @@
-# Carga-y-sincronizci-n-de-los-contactos-entre-Systeme.io-y-BigQuery
+# Carga y sincronizción de contactos entre Systeme y BigQuery
